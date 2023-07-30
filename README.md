@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**zemgeez/zemgeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zemgeez/zemgeez/blob/main/png_20230727_194013_0000.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zemgeez/zemgeez/blob/main/png_20230727_194013_0000.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/zemgeez/zemgeez/blob/main/png_20230727_194013_0000.png">
+</picture>
