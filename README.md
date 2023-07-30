@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hello Everyone :)
+---
+![png_20230727_200024_0000](https://github.com/zemgeez/zemgeez/assets/120195338/43a63499-39b2-41e0-b45f-d101e44a72c7)
 
+----
 
-
+### Abhinav
+### Pandey
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,8 +15,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zemgeez/zemgeez/blob/main/png_20230727_194013_0000.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zemgeez/zemgeez/blob/main/png_20230727_194013_0000.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/zemgeez/zemgeez/blob/main/png_20230727_194013_0000.png">
-</picture>
