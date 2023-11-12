@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on ReactJS Projects
 - 🌱 I’m currently learning Networking and NextJS
-- 👯 I’m looking to collaborate on Pthon Frameworks
+- 👯 I’m looking to collaborate on Python Frameworks
 - 🤔 I’m looking for help with any sort of Networking Tutorial 
 - 💬 Ask me about git, linux, Sketching or relative
 - 📫 How to reach me:https://www.instagram.com/man_v_a/ | https://www.linkedin.com/in/abhinav-pandey-882607206/
