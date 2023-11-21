@@ -22,14 +22,12 @@
 
 
 
-- 🔭 I’m currently working on ReactJS Projects
-- 🌱 I’m currently learning Networking and NextJS
-- 👯 I’m looking to collaborate on Python Frameworks
-- 🤔 I’m looking for help with any sort of Networking Tutorial 
+- 🔭 I’m currently working on Writing Scripts and next NextJS
+- 👯 I’m looking to collaborate on Python Frameworks 
 - 💬 Ask me about git, linux, Sketching or relative
 - 📫 How to reach me:https://www.instagram.com/man_v_a/ | https://www.linkedin.com/in/abhinav-pandey-882607206/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I do Sketching before swiming so that they don't get washed away
+- Pronouns: He/Him
+Sketching before swiming so that they don't get washed away
 
 ---
 <details>
